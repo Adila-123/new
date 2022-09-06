@@ -1,0 +1,49 @@
+Welcome to Hangman game
+
+This is the Hangman Word: _______ Enter your guess: 
+a
+_a_____
+
+This is the Hangman Word: _a_____ Enter your guess: 
+g
+   _____ 
+  |      
+  |      
+  |      
+  |      
+  |      
+  |      
+__|__
+
+Wrong guess. 5 guesses remaining
+
+This is the Hangman Word: _a_____ Enter your guess: 
+u
+_a_u___
+
+This is the Hangman Word: _a_u___ Enter your guess: 
+j
+ja_u___
+
+This is the Hangman Word: ja_u___ Enter your guess: 
+n
+janu___
+
+This is the Hangman Word: janu___ Enter your guess: 
+a
+janua__
+
+This is the Hangman Word: janua__ Enter your guess: 
+r
+januar_
+
+This is the Hangman Word: januar_ Enter your guess: 
+r
+Try another letter.
+
+This is the Hangman Word: januar_ Enter your guess: 
+y
+january
+
+Congrats! You have guessed the word correctly!
+Do You want to play again? y = yes, n = no 
